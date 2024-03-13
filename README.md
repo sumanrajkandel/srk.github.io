@@ -1,5 +1,8 @@
-# srk.github.io
-Personal Website
+- 👋 Hi, I’m @sumanrajkandel
+- 👀 I’m interested in Fullstack Web devlopment using ASP.Net Core with React.js
+- 🌱 I’m currently working as Fullstack devloper using ASP.Net Core API, React.js, Azure and SQL
+- 💞️ I’m looking to collaborate on React.JS, Next.JS, Dotnet Core, Azure and OpenAI LLM models and Technologies
+- 📫 How to reach me : email- sumanrajkandel1@gmail.com
 
 Experienced in Software Engineering with a demonstrated history of working in the IT and Software industry. Skilled in .NET Core MVC, ASP.NET MVC, Web API, LINQ, Entity Framework, JavaScript, React.Js, jQuery, MS-SQL SERVER. Strong engineering professional with holding the A+ Master's degree focused in Software Engineering & Computer Applications development. 
 
